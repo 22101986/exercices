@@ -62,3 +62,16 @@ console.log("Une "
     + " modèle "
     + car["date"]
     + " à été aperçue avec deux passagers.");
+
+
+    var a = 14;
+    var b = 38;
+    var product = [];
+    product = a[0]; 
+    product = b[1];
+    product = 50[7];
+    console.log(a);
+    console.log(b);
+    console.log(product);
+
+    
